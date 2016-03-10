@@ -1,0 +1,7 @@
+
+#try to start job when stopped unpredictable
+*/1 * * * * /php_path/bin/php /shop_path/do.php start bg
+
+
+
+
